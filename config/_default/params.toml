@@ -1,0 +1,7 @@
+colorScheme = "Fire"
+enableSearch = true
+enableCodeCopy = true
+logo = "/img/logo.png"
+showScrollToTop = true
+homepage.layout = "profile"
+homepage.showRecent= true

@@ -1,0 +1,10 @@
+title = "cubricmms blog"
+
+[author]
+name = "cubricmms"
+image = "img/pandas.jpg"
+headline = "Coding is fun"
+bio = "Full stack with Python and React"
+links = [
+  { github = "https://github.com/cubricmms" }
+]

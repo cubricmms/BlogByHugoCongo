@@ -1,0 +1,4 @@
+theme = "congo"
+baseURL = "https://cubricmms.host"
+languageCode = "en"
+enableRobotsTXT = true
